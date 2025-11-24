@@ -1,0 +1,5 @@
+{
+  "name": "Kartu pelajaran redy",
+  "description": "Aplikasi web untuk membuat dan mengunduh kartu pelajar dengan desain yang profesional dan elegan. Pengguna dapat memasukkan nama sekolah, data siswa, serta mengunggah foto dan logo sekolah untuk membuat kartu yang dapat diunduh sebagai PDF atau Word.",
+  "requestFramePermissions": []
+}
